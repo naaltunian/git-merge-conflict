@@ -1,0 +1,15 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "A common situation you may run into are [merge conflicts](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts). These occur when multiple developers have changed the same lines of code and git cannot determine which version to use. You now have a conflict which must be manually resolved before proceeding. In this repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
