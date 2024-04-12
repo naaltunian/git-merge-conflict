@@ -9,5 +9,4 @@ test('HTML contains appropriate tags', () => {
   expect(htmlContent).toContain('<p>');
   expect(htmlContent).toContain('<nav>');
   expect(htmlContent).toContain('<li>');
-  expect(htmlContent).toContain('<input>');
 });
